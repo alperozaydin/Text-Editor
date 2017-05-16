@@ -1,0 +1,40 @@
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\App.g.cs
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditorToolbar.baml
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditorToolbar.g.cs
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\chr100\users\kingandr\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+\\chr100\users\KINGANDR\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+\\chr100\users\KINGANDR\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditorMenu.baml
+\\chr100\users\KINGANDR\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditorMenu.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\PrintPreviewDialog.baml
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditorMenu.baml
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditorToolbar.baml
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\PrintPreviewDialog.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditorMenu.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditorToolbar.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\KINGANDR\Source\Repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
